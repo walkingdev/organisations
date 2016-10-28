@@ -1,6 +1,6 @@
 ---
-title: Explorer ELM avec une frontale
-label: ELM
+title: ELM sans frontale ni baudrier
+label: ELM 15/12 Bordeaux
 owner: walkingdev/elm
 ---
 
