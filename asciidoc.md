@@ -1,5 +1,5 @@
 ---
-title: markdown is not dead !
+title: Markdown is not dead !
 label: AsciiDoc - 17/01 Strasbourg
 owner: walkingdev/asciidoc
 ---
