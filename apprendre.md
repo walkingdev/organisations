@@ -1,5 +1,5 @@
 ---
-title: Alternative à l'éducation
+title: Les alternatives à l'éducation
 label: Apprendre sans éducateur
-owner: walkingdev/education
+owner: walkingdev/apprentissage
 ---
