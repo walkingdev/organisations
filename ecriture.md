@@ -1,7 +1,7 @@
 ---
 title: Écrire avec Git - Hacker des outils de dévs pour écrire
-label: Ville/Date à discuter
+label: Toulouse - 12/01
 owner: walkingdev/ecriture
 ---
 
-> [Lien vers l'organisation](http://github.com/walkingdev)
+> [Lien vers l'organisation](http://walkingdev.fr)
