@@ -1,6 +1,6 @@
 ---
-title: Toyez moi !
-label: Photo urbaine
+title: Photo urbaine - Toyez moi !
+label: Ville/Date à discuter 
 owner: walkingdev/photo-urbaine
 ---
 
