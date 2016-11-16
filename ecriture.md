@@ -1,6 +1,6 @@
 ---
-title: Hacker des outils de dévs pour écrire
-label: Écrire avec Git
+title: Écrire avec Git - Hacker des outils de dévs pour écrire
+label: Design-Pattern
 owner: walkingdev/ecriture
 ---
 
