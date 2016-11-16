@@ -1,6 +1,6 @@
 ---
-title: Cuisine sans cuisine
-label: Cuisine créative
+title: Cuisine créative - Cuisine sans cuisine
+label: Lieu/Date à discuter
 owner: walkingdev/cuisine
 ---
 
