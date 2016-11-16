@@ -1,6 +1,6 @@
 ---
 title: ELM sans frontale ni baudrier
-label: ELM 15/12 Bordeaux
+label: Bordeaux - 15/12 
 owner: walkingdev/elm
 ---
 
