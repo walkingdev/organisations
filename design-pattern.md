@@ -1,6 +1,6 @@
 ---
 title: Design-Pattern - Architecture : La nature de l'ordre
-label: Cuisine créative
+label: Ville/Date à discuter
 owner: walkingdev/design-pattern
 ---
 
