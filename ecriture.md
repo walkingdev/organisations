@@ -1,6 +1,6 @@
 ---
 title: Écrire avec Git - Hacker des outils de dévs pour écrire
-label: Lieu/Date à discuter
+label: Ville/Date à discuter
 owner: walkingdev/ecriture
 ---
 
