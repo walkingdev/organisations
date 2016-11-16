@@ -1,6 +1,6 @@
 ---
-title: Réaliser un truc sans réveiller les fonds
-label: Trampolean
+title: Trampolean - Réaliser un truc sans réveiller les fonds
+label: Ville/Date à discuter
 owner: walkingdev/trampolean
 ---
 
