@@ -1,7 +1,7 @@
 ---
 title: Cuisine créative - Cuisine sans cuisine
-label: Ville/Date à discuter
+label: Bordeaux - 16/12
 owner: walkingdev/cuisine
 ---
 
-> [Lien vers l'organisation](http://github.com/walkingdev)
+> [Lien vers l'organisation](http://walkingdev.fr)
