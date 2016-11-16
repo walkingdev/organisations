@@ -1,6 +1,6 @@
 ---
 title: Umap sans boussole et sans compas
-label: Umap
+label: Bordeaux - Date à définir
 owner: walkingdev/umap
 ---
 
