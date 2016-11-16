@@ -1,6 +1,6 @@
 ---
 title: Flex so Sex...
-label: Lieu/Date à discuter
+label: Ville/Date à discuter
 owner: walkingdev/flex
 ---
 
