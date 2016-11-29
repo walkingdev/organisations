@@ -1,6 +1,6 @@
 ---
-title: Flex so Sex...
-label: Ville/Date à discuter
+title: Flexbox m'a sauver
+label: Montpellier 26/01
 owner: walkingdev/flex
 ---
 
