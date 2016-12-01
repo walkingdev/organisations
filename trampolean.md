@@ -1,6 +1,6 @@
 ---
-title: Trampolean - Formation lean startup itinérante pour mettre en marche et tester son projet
-label: Montpellier le 6 janvier
+title: Trampolean - Formation lean startup itinérante
+label: Montpellier - 6/01
 owner: walkingdev/trampolean
 ---
 
