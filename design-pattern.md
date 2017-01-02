@@ -1,6 +1,6 @@
 ---
 title: Design-Pattern - Architecture : La nature de l'ordre
-label: Ville/Date à discuter
+label: à programmer
 owner: walkingdev/design-pattern
 ---
 
