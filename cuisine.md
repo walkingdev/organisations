@@ -1,6 +1,6 @@
 ---
 title: Cuisine créative - Cuisine sans cuisine
-label: Bordeaux - 16/12
+label: à programmer
 owner: walkingdev/cuisine
 ---
 
