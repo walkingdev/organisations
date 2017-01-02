@@ -1,6 +1,6 @@
 ---
 title: AsciiDoc - Markdown is not dead !
-label: Strasbourg - 17/01
+label: à programmer
 owner: walkingdev/asciidoc
 ---
 
