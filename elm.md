@@ -1,6 +1,6 @@
 ---
 title: ELM sans frontale ni baudrier
-label: Bordeaux - 15/12 
+label: à programmer 
 owner: walkingdev/elm
 ---
 
