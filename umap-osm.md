@@ -1,6 +1,6 @@
 ---
 title: Umap-OSM sans boussole et sans compas
-label: Bordeaux - 24/01
+label: Bordeaux - 07/02
 owner: walkingdev/umap
 ---
 
