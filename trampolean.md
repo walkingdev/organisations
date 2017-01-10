@@ -1,6 +1,6 @@
 ---
 title: Trampolean - Formation lean startup itinérante
-label: Montpellier - 6/01
+label: Montpellier - 2/02
 owner: walkingdev/trampolean
 ---
 
