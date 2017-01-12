@@ -1,6 +1,6 @@
 ---
 title: Détournons Github
-label: Toulouse - 12/01
+label: À programmer
 owner: walkingdev/github
 
 ---
