@@ -1,6 +1,6 @@
 ---
 title: Jeux créatifs
-label: Toulouse - 14/03 
+label: Toulouse - 15/03 
 owner: walkingdev/jeux-creatifs
 ---
 
