@@ -1,6 +1,6 @@
 ---
 title: Flexbox m'a sauver
-label: Montpellier - 26/01
+label: à programmer
 owner: walkingdev/flex
 ---
 
