@@ -1,6 +1,6 @@
 ---
 title: Flexbox m'a sauver
-label: à programmer
+label: à re-programmer
 owner: walkingdev/flex
 ---
 

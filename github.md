@@ -1,6 +1,6 @@
 ---
 title: Détournons Github
-label: À programmer
+label: à re-programmer
 owner: walkingdev/github
 
 ---

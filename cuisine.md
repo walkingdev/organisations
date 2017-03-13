@@ -1,6 +1,6 @@
 ---
 title: Cuisine créative - Cuisine sans cuisine
-label: à programmer
+label: à re-programmer
 owner: walkingdev/cuisine
 ---
 
