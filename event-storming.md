@@ -1,5 +1,5 @@
 ---
-title: Event-storming - co-construction éclair
+title: Event-storming - La tête dans la tempête 
 label: Montpellier - 13/04
 owner: walkingdev/event-storming
 ---
