@@ -1,6 +1,6 @@
 ---
 title: Jeux créatifs
-label: Toulouse - 15/03 
+label: A programmer
 owner: walkingdev/jeux-creatifs
 ---
 
