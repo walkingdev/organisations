@@ -1,6 +1,6 @@
 ---
 title: Flexbox m'a sauver
-label: Lyon - 19/03
+label: Lyon - 19/04
 owner: walkingdev/flex
 ---
 
