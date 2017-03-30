@@ -1,7 +1,7 @@
 ---
 title: Flexbox m'a sauver
-label: à re-programmer
+label: Lyon - 19/04
 owner: walkingdev/flex
 ---
 
-> [Lien vers l'organisation](http://github.com/walkingdev)
+> [Lien vers l'organisation](http://walkingdev.fr)
