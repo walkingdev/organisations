@@ -1,6 +1,6 @@
 ---
 title: Trampolean - Formation lean startup itinérante
-label: À programmer
+label: À re-programmer
 owner: walkingdev/trampolean
 ---
 
