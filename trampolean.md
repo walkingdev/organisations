@@ -1,6 +1,6 @@
 ---
 title: Trampolean - Formation lean startup itinérante
-label: Toulouse - 17/03
+label: À programmer
 owner: walkingdev/trampolean
 ---
 
