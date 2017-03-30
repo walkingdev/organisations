@@ -1,6 +1,6 @@
 ---
 title: Jeux créatifs
-label: A programmer
+label: À re-programmer
 owner: walkingdev/jeux-creatifs
 ---
 
