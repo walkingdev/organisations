@@ -1,6 +1,6 @@
 ---
-title: Cuisine créative - Cuisine sans cuisine
-label: à re-programmer
+title: Cuisine collaborative - Cuisine sans cuisine
+label: Montpellier le 25/04
 owner: walkingdev/cuisine
 ---
 
