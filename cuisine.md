@@ -1,6 +1,6 @@
 ---
 title: Cuisine collaborative - Cuisine sans cuisine
-label: Montpellier le 25/04
+label: Montpellier - 25/04
 owner: walkingdev/cuisine
 ---
 
