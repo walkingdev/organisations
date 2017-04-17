@@ -1,6 +1,6 @@
 ---
 title: Event-storming - La tête dans la tempête 
-label: Montpellier - 13/04
+label: À re-programmer
 owner: walkingdev/event-storming
 ---
 
