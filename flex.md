@@ -1,6 +1,6 @@
 ---
 title: Flexbox m'a sauver
-label: Lyon - 19/04
+label: À re-programmer
 owner: walkingdev/flex
 ---
 
