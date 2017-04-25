@@ -1,6 +1,6 @@
 ---
 title: Event-storming - La tête dans la tempête 
-label: À re-programmer
+label: Bordeaux - 4/05
 owner: walkingdev/event-storming
 ---
 
