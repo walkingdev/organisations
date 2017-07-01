@@ -1,6 +1,6 @@
 ---
 title: Darktable - le mystère de la chambre noire
-label: 21/06 à Montpellier
+label: à Re-programmer
 owner: walkingdev/darktable/blob/master/v-34/faq.md
 ---
 
