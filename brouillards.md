@@ -1,6 +1,6 @@
 ---
-title: Le jeu de rôle de votre orientation
-label: 4 Juillet à Toulouse
+title: Brouillards et Boussoles - jeu de rôle d'orientation
+label: 4 Juillet - Toulouse
 owner: walkingdev/brouillards-boussoles
 ---
 
