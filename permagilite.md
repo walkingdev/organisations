@@ -1,6 +1,6 @@
 ---
 title: Permagilité 
-label: à programmer 
+label: 30 aout à Toulouse
 owner: walkingdev/permagilite
 ---
 
