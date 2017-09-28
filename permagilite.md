@@ -1,6 +1,6 @@
 ---
 title: Permagilité 
-label: 30 aout à Toulouse
+label: 18 octobre à Paris
 owner: walkingdev/permagilite
 ---
 
