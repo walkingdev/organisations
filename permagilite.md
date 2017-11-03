@@ -1,6 +1,6 @@
 ---
 title: Permagilité 
-label: A re-programmer
+label: À re-programmer
 owner: walkingdev/permagilite
 ---
 
