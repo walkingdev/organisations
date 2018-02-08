@@ -1,6 +1,6 @@
 ---
 title: Communication Non Violente
-label: 8 Nov - Montpellier
+label: À programmer
 owner: walkingdev/cnv
 ---
 
