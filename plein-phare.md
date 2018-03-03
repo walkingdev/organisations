@@ -1,5 +1,5 @@
 ---
 title: tenter d'apporter une réponse à la question "qu'est-ce que je vais faire plus tard ?"
 label:  31 mars - Montpellier
-owner: walkingdev/exploration-sonore/blob/master/faq.md
+owner: walkingdev/plein-phare/blob/master/faq.md
 ---
