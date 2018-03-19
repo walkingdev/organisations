@@ -1,5 +1,5 @@
 ---
 title: Exploration sonore
-label:  7 mars - Montpellier
+label: à re-programmer
 owner: walkingdev/exploration-sonore
 ---
