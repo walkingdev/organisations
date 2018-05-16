@@ -1,6 +1,6 @@
 ---
 title: Mix in the box
-label: 18 mai
+label: 20 Juin
 owner: walkingdev/mix-in-the-box
 ---
 
