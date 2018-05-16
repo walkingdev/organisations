@@ -1,6 +1,6 @@
 ---
 title: Product Owner
-label:  juin
+label: 1er juin
 owner: walkingdev/product-owner/blob/master/v33/faq.md
 ---
 
