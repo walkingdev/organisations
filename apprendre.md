@@ -1,6 +1,6 @@
 ---
 title: Apprendre sans trop se faire éduquer
-label: 7 juin
+label: 6 juin
 owner: walkingdev/apprendre
 ---
 
