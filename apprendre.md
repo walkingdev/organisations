@@ -1,6 +1,6 @@
 ---
 title: Apprendre sans trop se faire éduquer
-label: 6 juin
+label: À re-programmer
 owner: walkingdev/apprendre/blob/master/v33/faq.md
 ---
 
