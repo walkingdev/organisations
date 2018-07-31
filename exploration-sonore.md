@@ -1,5 +1,5 @@
 ---
 title: Exploration sonore
-label: 16 Mai - Montpellier
+label: À re-programmer
 owner: walkingdev/exploration-sonore
 ---
