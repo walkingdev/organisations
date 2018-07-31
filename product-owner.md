@@ -1,6 +1,6 @@
 ---
 title: Product Owner
-label: 1er juin
+label: À re-programmer
 owner: walkingdev/product-owner/blob/master/v33/faq.md
 ---
 
