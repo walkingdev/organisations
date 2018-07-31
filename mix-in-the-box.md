@@ -1,6 +1,6 @@
 ---
 title: Mix in the box
-label: 20 Juin
+label: À re-programmer
 owner: walkingdev/mix-in-the-box/blob/master/v34/faq.md
 ---
 
