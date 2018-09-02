@@ -1,5 +1,5 @@
 ---
 title: Communication NonViolente
-label: 1 Septembre - Montpellier
+label: à re-programmer
 owner: walkingdev/cnv/tree/master/v-34-2
 ---
