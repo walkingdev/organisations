@@ -1,5 +1,5 @@
 ---
 title: Coaching
-label: 31 août - Paris
+label: à re-programmer
 owner: walkingdev/coaching/tree/master/v75
 ---
