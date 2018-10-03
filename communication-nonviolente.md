@@ -1,5 +1,5 @@
 ---
 title: Communication NonViolente
-label: à re-programmer
-owner: walkingdev/cnv/tree/master/v-34-2
+label: 6 Novembre
+owner: walkingdev/cnv/blob/master/v-75/faq.md
 ---
