@@ -1,6 +1,6 @@
 ---
 title: Thé de Chine
-label: 12 février Montpellier
+label: Montpellier - 12 février
 owner: walkingdev/thé
 ---
 
